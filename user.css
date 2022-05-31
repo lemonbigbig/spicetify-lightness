@@ -1,0 +1,303 @@
+
+* {
+  font-family: spotify-circular,'Microsoft Ya Hei', sans-serif !important;
+  line-height: normal;
+  box-shadow: none !important;
+}
+
+.encore-dark-theme .encore-bright-accent-set{
+  --background-highlight: var(--spice-accent);
+  --background-highlight-press: var(--spice-accent);
+  --background-press:var(--background-highlight-press)
+}
+
+:root{
+  --scrollbar-vertical-size: 10px;
+}
+
+.fpCtYO {
+  background: var(--spice-accent);
+}
+
+.main-connectBar-connectBar.mVVxN9ZfIRjiQfDuzPCZ{
+  background: var(--spice-accent);
+}
+
+.progress-bar{
+  --fg-color: var(--spice-accent);
+  --is-active-fg-color: var(--spice-accent)
+}
+
+
+/* 暂停按钮颜色 */
+.main-playPauseButton-button{
+  background-color: var(--spice-accent);
+}
+
+/* 播放控制按钮颜色 */
+.mnipjT4SLDMgwiDCEnRC:hover,
+.fn72ari9aEmKo4JcwteT:hover,
+.fn72ari9aEmKo4JcwteT:hover,
+.Vz6yjzttS0YlLcwrkoUR:hover,
+.KVKoQ3u4JpKTvSSFtd6J:hover{
+  color: var(--spice-accent);
+}
+.mnipjT4SLDMgwiDCEnRC,
+.fn72ari9aEmKo4JcwteT,
+.fn72ari9aEmKo4JcwteT,
+.Vz6yjzttS0YlLcwrkoUR,
+.KVKoQ3u4JpKTvSSFtd6J,
+.Vz6yjzttS0YlLcwrkoUR:focus:not(:focus-visible):not(:hover),
+.mnipjT4SLDMgwiDCEnRC:focus:not(:focus-visible):not(:hover),
+.fn72ari9aEmKo4JcwteT:focus:not(:focus-visible):not(:hover),
+.fn72ari9aEmKo4JcwteT:focus:not(:focus-visible):not(:hover),
+.KVKoQ3u4JpKTvSSFtd6J:focus:not(:focus-visible):not(:hover),
+.control-button{
+  color: var(--spice-subtext);
+}
+
+.KVKoQ3u4JpKTvSSFtd6J.OF_3F0SQCsBtL1jSTlTA:not([disabled]):hover,
+.Vz6yjzttS0YlLcwrkoUR.tP0mccyU1WAa7I9PevC1:not([disabled]):hover
+{
+  color: var(--spice-accent);
+}
+
+.iUSAh1wdhXLk9hHSbkCA.hsrxlVHxK0zZrgarkxuA:after{
+  border-bottom: 10px solid var(--spice-accent);
+}
+
+.connect-device-list-container:before{
+  border: 0;
+}
+
+
+/* 收藏按钮颜色 */
+.control-button-heart[aria-checked=false]{
+  color: var(--spice-subtext)
+}
+.control-button-heart[aria-checked=false]:hover{
+  color: var(--spice-accent)
+}
+
+/* 歌手页播放按钮颜色 */
+.gHYQaG{
+  background-color: var(--spice-accent);
+}
+
+/* 侧边栏主题色 */
+.main-navBar-navBarLinkActive,
+.main-navBar-navBarLinkActive:hover,
+.main-navBar-navBarLink:hover,
+.r9YzlaAPnM2LGK97GSfa:focus,
+.r9YzlaAPnM2LGK97GSfa:hover,
+.IPVjkkhh06nan7aZK7Bx:hover,
+.IPVjkkhh06nan7aZK7Bx:focus,
+.q3ABXYJT9JZIzXOOtVuO:hover,
+.q3ABXYJT9JZIzXOOtVuO:focus
+{
+  color: var(--spice-accent);
+}
+
+/* 搜索框ICON */
+.x-searchInput-searchInputSearchIcon {
+  color: var(--spice-subtext);
+}
+
+.jntTSA{
+  color: var(--spice-subtext);
+}
+
+.os-theme-spotify>.os-scrollbar-vertical>.os-scrollbar-track>.os-scrollbar-handle{
+  background: var(--spice-subtext);
+}
+
+.os-theme-spotify>.os-scrollbar-vertical>.os-scrollbar-track>.os-scrollbar-handle:hover
+{
+  background: var(--spice-subtext2);
+} 
+
+.os-theme-spotify>.os-scrollbar-vertical>.os-scrollbar-track>.os-scrollbar-handle.active
+{
+  background: var(--spice-subtext2);
+} 
+
+.g3f_cI5usQX7ZOQyDtA9,
+.g3f_cI5usQX7ZOQyDtA9:hover{
+  background-color: var(--spice-card);
+  border: .7px;
+  border-color: var(--spice-card-border);
+  border-style: solid;
+  border-radius: 6px;
+}
+
+.main-card-card{
+  background-color: var(--spice-card);
+  border: .7px;
+  border-color: var(--spice-card-border);
+  border-style: solid;
+}
+
+
+.main-entityHeader-backgroundColor,
+.main-actionBarBackground-background,
+.main-topBar-background,
+.n87ifzfQlmGX8vkeYGDL{
+  background-color: var(--spice-main) !important;
+  
+}
+
+.main-topBar-background{
+  border-bottom: 1px solid var(--spice-card-border);
+  filter: drop-shadow(2px 0px 4px rgba(64,64,64,.25));
+}
+
+
+.main-moreButton-button{
+  color: var(--spice-subtext) !important;
+}
+.main-contextMenu-menuItem{
+  color: var(--spice-subtext) !important;
+}
+
+.k6Nq7pavAmiyJlxj52QA{
+  color: var(--spice-accent) !important;
+}
+.SxHlW6byhoJSUJNugaE1 .Kujbn0F68QOf_o44cNxw{
+  border: 1px solid var(--spice-card-border);
+}
+.cWsvKZ.cWsvKZ{
+  background-color: var(--spice-subtext);
+}
+.Chip__ChipComponent-ry3uox-0:not([href]) > .cWsvKZ.cWsvKZ{
+  background-color: var(--spice-accent);
+}
+
+.HbKLiGoYM4dpuK8L4TMX{
+  color: var(--spice-subtext);
+}
+
+.main-addButton-active{
+  color: var(--spice-accent) !important;
+}
+
+.main-addButton-button{
+  color: var(--spice-subtext) ;
+}
+
+.main-contextMenu-menuItemButton{
+  color: var(--spice-subtext) !important;
+  
+}
+.main-contextMenu-menuItemButton:hover{
+  background-color: rgba(64,64,64,.25);
+  border-radius: 3px;
+}
+
+.main-contextMenu-menu{
+  border: .7px solid var(--spice-card-border);
+  
+}
+.EvQHNTBhaU3rGCRRlAWj.QplCuuGSoV4updqTSLq9{background-color: var(--spice-player);
+border-bottom: 1px solid var(--spice-player-border);}
+
+.w6j_vX6SF5IxSXrrkYw5,
+.Ihlsi5QU3AnIfSgnhorS{
+  color: var(--spice-text);
+}
+
+.connect-header__image {
+  filter: invert(1);
+}
+
+.cpSTHq{
+  color: var(--spice-text);
+}
+
+.GD2gbRtcs5dOjMGAM_Y4{
+  border-top:1.5px solid var(--spice-card-border);
+}
+.main-navBar-navBar{
+  border-right: 1.5px solid var(--spice-card-border);
+}
+
+
+
+div.VYdojyqT_bc44_XgSBX0,
+.fQToy,.nMYPrV7uEdDk8YlfNqLe{
+  color: white !important;
+}
+
+.main-userWidget-box,
+.main-userWidget-box:focus,
+.main-userWidget-box[data-context-menu-open=true]{
+  background-color: var(--spice-subtext);
+}
+.main-userWidget-box:hover{
+  background-color: var(--spice-accent);
+}
+
+.main-userWidget-displayName,
+.main-userWidget-chevron{
+  color: white !important;
+}
+
+.cover-art .cover-art-image{
+  border-radius: 6px;
+  border: 1px solid var(--spice-card-border);
+  filter: drop-shadow(2px 2px 3px rgba(64,64,64,.25));
+}
+
+.main-trackList-playingIcon {
+  position: absolute;
+  filter: hue-rotate(70deg) brightness(.5);
+}
+
+.main-topBar-historyButtons .main-topBar-button {
+  color: var(--spice-text);
+  background-color: var(--spice-not-selected);
+}
+
+.connect-device-list-item--active .connect-device-list-item__icon,
+.connect-device-list-item--active .connect-device-list-item__device-subtitle,
+#main > div > div.Root__top-container > div.Root__now-playing-bar > footer > div > div.main-nowPlayingBar-right > div > div.A5IHiGTgTzOa4nvoJfvp > div > div > ul > button.media.connect-device-list-item.connect-device-list-item--active > div.connect-device-list-item__info {
+  color: var(--spice-accent);
+}
+
+
+
+.connect-device-list-container--is-visible{
+  border: 1px solid var(--spice-card-border);
+  border-radius: 8px;
+  filter: drop-shadow(4px 4px 14px rgba(64,64,64,.25));
+}
+
+.connect-device-list-item{
+  width: 96%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 5px;
+  border: 1px solid var(--spice-card-border);
+  margin-bottom: 6px;
+}
+
+.X1lXSiVj0pzhQCUo_72A{
+  color: var(--spice-subtext);
+}
+
+.wCl7pMTEE68v1xuZeZiB{
+  color:var(--spice-subtext);
+  background-color: var(--spice-tab-active);
+  border-radius: 50%;
+}
+
+.wCl7pMTEE68v1xuZeZiB:hover{
+  color:var(--spice-main);
+  background-color: var(--spice-accent);
+}
+
+.QZhV0hWVKlExlKr266jo,
+.QZhV0hWVKlExlKr266jo:hover
+{
+  background-color: var(--spice-accent );
+}
+
