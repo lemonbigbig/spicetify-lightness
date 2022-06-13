@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Bloom</h1>
+  <h1>lightness</h1>
 
   [Spicetify](https://github.com/khanhas/spicetify-cli) theme inspired by Microsoft's [Fluent Design System](https://www.microsoft.com/design/fluent).
 </div>
