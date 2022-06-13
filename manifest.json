@@ -1,0 +1,16 @@
+{
+    "name": "Lightness",
+    "description": "Spicetify theme inspired by Microsoft's Fluent Design",
+    "preview": "https://raw.githubusercontent.com/lemonbigbig/spicetify-lightness/master/PREVIEW/light.png",
+    "readme": "README.md",
+    "usercss": "user.css",
+    "schemes": "color.ini",
+    "include": ["https://raw.githubusercontent.com/lemonbigbig/spicetify-lightness/master/lightness.js"],
+    "branch": "master",
+    "authors": [
+        {
+            "name": "lemonbigbig",
+            "url": "https://github.com/lemonbigbig"
+        }
+    ]
+}
