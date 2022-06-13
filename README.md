@@ -47,11 +47,21 @@ spicetify apply
 
 ## Credits
 
-thanks nimsanduand and the awesome theme [spicetify-bloom](https://github.com/nimsandu/spicetify-bloom) and also special thanks and the concept belongs to williamckha
+thanks nimsandu and the awesome theme [spicetify-bloom](https://github.com/nimsandu/spicetify-bloom)
+
+special thanks and the concept belongs to williamckha
+
+
 another thanx for @dilith the milkgod
 customized the theme by williamckha (https://github.com/williamckha/spicetify-fluent)
+
+
 Based off [Ziro](https://github.com/schnensch0/ziro) theme by [schnensch](https://github.com/schnensch0)  
+
+
 [Fluent UI System Icons](https://github.com/microsoft/fluentui-system-icons) by Microsoft Corporation  
+
+
 [Phosphor Icons](https://github.com/phosphor-icons/phosphor-icons) by Phosphor Icons
 
 ## License
