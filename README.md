@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Bloom</h1>
+  <h1>lightness</h1>
 
   [Spicetify](https://github.com/khanhas/spicetify-cli) theme inspired by Microsoft's [Fluent Design System](https://www.microsoft.com/design/fluent).
 </div>
@@ -22,13 +22,13 @@
 ### Windows (PowerShell)
 
 ```powershell
-Invoke-WebRequest -UseBasicParsing "https://raw.githubusercontent.com/lemonbigbig/spicetify-lightness/main/install.ps1" | Invoke-Expression
+Invoke-WebRequest -UseBasicParsing "https://raw.githubusercontent.com/lemonbigbig/spicetify-lightness/master/install.ps1" | Invoke-Expression
 ```
 
 ### Linux/macOS (Bash)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/lemonbigbig/spicetify-lightness/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/lemonbigbig/spicetify-lightness/master/install.sh | sh
 ```
 
 ## Customization
