@@ -26,15 +26,15 @@ if (-not (Test-Path $themePath)) {
 
 # Download latest master
 $zipUri = "https://github.com/lemonbigbig/spicetify-lightness/archive/refs/heads/master.zip"
-$zipSavePath = "$themePath\lightness-main.zip"
+$zipSavePath = "$themePath\lightness-master.zip"
 Write-Host "Downloading spicetify-lightness latest master..."
 Invoke-WebRequest -Uri $zipUri -UseBasicParsing -OutFile $zipSavePath
 
 # Extract theme from .zip file
 Write-Host "Extracting..."
 Expand-Archive -Path $zipSavePath -DestinationPath $themePath -Force
-Get-ChildItem "$themePath\spicetify-lightness-main\*" | ForEach-Object { Move-Item $_ $themePath }
-Remove-Item "$themePath\spicetify-lightness-main"
+Get-ChildItem "$themePath\spicetify-lightness-master\*" | ForEach-Object { Move-Item $_ $themePath }
+Remove-Item "$themePath\spicetify-lightness-master"
 
 # Delete .zip file
 Write-Host "Deleting zip file..."

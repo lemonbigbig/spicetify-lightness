@@ -21,7 +21,7 @@ fi
 
 # Download latest master
 zipUri="https://github.com/lemonbigbig/spicetify-lightness/archive/refs/heads/master.zip"
-zipSavePath="$themePath/lightness-main.zip"
+zipSavePath="$themePath/lightness-master.zip"
 echo "Downloading lightness-spicetify latest master..."
 curl --fail --location --progress-bar --output "$zipUri" "$zipSavePath"
 
@@ -29,8 +29,8 @@ curl --fail --location --progress-bar --output "$zipUri" "$zipSavePath"
 # Extract theme from .zip file
 echo "Extracting..."
 unzip -d "$themePath" -o "$zipSavePath"
-mv "$themePath/spicetify-lightness-main/*" $themePath
-rmdir "$themePath/spicetify-lightness-main"
+mv "$themePath/spicetify-lightness-master/*" $themePath
+rmdir "$themePath/spicetify-lightness-master"
 
 # Delete .zip file
 echo "Deleting zip file..."
