@@ -22,13 +22,13 @@
 ### Windows (PowerShell)
 
 ```powershell
-Invoke-WebRequest -UseBasicParsing "https://raw.githubusercontent.com/lemonbigbig/spicetify-lightness/main/install.ps1" | Invoke-Expression
+Invoke-WebRequest -UseBasicParsing "https://raw.githubusercontent.com/lemonbigbig/spicetify-lightness/master/install.ps1" | Invoke-Expression
 ```
 
 ### Linux/macOS (Bash)
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/lemonbigbig/spicetify-lightness/main/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/lemonbigbig/spicetify-lightness/master/install.sh | sh
 ```
 
 ## Customization
